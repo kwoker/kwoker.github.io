@@ -27,9 +27,17 @@
   - [Aliyun · OPSX](https://opsx.alibaba.com/mirror)
   - [清华大学开源软件镜像站](https://mirror.tuna.tsinghua.edu.cn/)
   - [中科大开源镜像站](http://mirrors.ustc.edu.cn/)
+  
+- 书籍
+
+  - [圣墟](https://www.biqiuge.com/book/4772/)
+  - [僵尸王](https://www.biquge.info/54_54165/)
+  - [超品巫师](https://www.yangguiweihuo.com/4/4471/)
+  - [英雄监狱](https://www.biquge.info/4_4197/)
 
 - 其他资料
 
+  - ![](./assets/Wechat.jpeg '公众号')
   - [HTML URL 字符编码](http://www.w3school.com.cn/html/html_urlencode.asp)
   - [Alfred 2](http://www.alfredworkflow.com/)
   - [Docsify](https://docsify.js.org/#/)

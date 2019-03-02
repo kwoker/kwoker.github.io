@@ -1,10 +1,9 @@
-<img width="200" height="200" src="assets/logo.png">
+![Logo](./assets/logo.png)
 
-# Kwoker
 
-> 一只 <small>不务正业</small> 的 <em>程序猿</em>
+> 人云亦云 做个随大流的庸人
 
-- DevOps、Linux、Java、GoLang、Python
+- MacOS、Linux、Java、Docker、Python
 
 [Weibo](http://weibo.com/kwoker)
 [Mail](mailto:kwoker@keveon.com)
