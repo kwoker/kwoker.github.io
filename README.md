@@ -1,4 +1,4 @@
-# Kwoker96
+# Kwoker
 
 [![https://kwoker96.com](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=https://kwoker96.com ':no-zoom')](https://kwoker96.com)
 
