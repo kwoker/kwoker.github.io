@@ -1,6 +1,6 @@
 # Kwoker
 
-[![https://kwoker96.com](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=https://kwoker96.com ':no-zoom')](https://kwoker96.com)
+[![https://kwoker.com](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=https://kwoker.com ':no-zoom')](https://kwoker96.com)
 
 
 <img width="300" height="280" src="./assets/Wechat.jpeg">
