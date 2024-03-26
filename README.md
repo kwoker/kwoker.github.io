@@ -28,12 +28,16 @@
 </br>ps：可协助更改地区
 
 # YouTube🫙
+[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=油管官网 ':no-zoom')](www.youtube.com)
+
 !> 70/年；
 </br>
 </br>畅游在知识的海洋里！
 </br>ps：自备网络或进群交流
 
 # ChatGPT🤖️
+[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=gpt官网 ':no-zoom')](https://chat.openai.com/)
+
 !> 进群免费体验；
 </br>
 </br>进群可免费体验gpt3.5
