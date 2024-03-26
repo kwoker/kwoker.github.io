@@ -6,7 +6,7 @@
 <img width="180" height="280" src="./assets/llk.jpeg"></br>
   
 # Netflix🎬
-[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=奈飞官网 ':no-zoom')](www.netflix.com)
+[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=奈飞官网 ':no-zoom')](https://www.netflix.com)
 
 !> 合租车位20/月；共享车位8/月；
 </br>
@@ -28,7 +28,7 @@
 </br>ps：可协助更改地区
 
 # YouTube🫙
-[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=油管官网 ':no-zoom')](www.youtube.com)
+[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=油管官网 ':no-zoom')](https://www.youtube.com)
 
 !> 70/年；
 </br>
