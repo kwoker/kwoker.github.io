@@ -5,9 +5,18 @@
 
 <img width="180" height="280" src="./assets/llk.jpeg"></br>
   
-# 奈飞
+# Netflix🎬
+[![https://kwoker.cn](https://img.shields.io/website-up-down-green-red/https/kwoker.com.svg?label=奈飞官网 ':no-zoom')](www.netflix.com)
 
-!> 合租车位20/月</br>共享车位8/月</br>电脑手机平板电视多终端通用</br>支持4K HDR10 双杜比 高级五人位置</br>售后无忧！
+!> 合租车位20/月；共享车位8/月；
+</br>
+</br>电脑手机平板电视多终端通用
+</br>支持4K HDR10 双杜比 高级版五人位置</br>售后无忧！欢迎骚扰！
+</br>ps：自备🪜或进群交流
+
+<img width="" height="" src="./netflix/1.jpg"></br>
+<img width="" height="" src="./netflix/2.jpg"></br>
+<img width="" height="" src="./netflix/3.jpg"></br>
 
 !> 惟沉默是最高的轻蔑。 ——鲁迅
 
