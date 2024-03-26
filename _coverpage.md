@@ -3,7 +3,7 @@
 
 > 人云亦云 做个随大流的庸人
 
-- MacOS、Linux、Java、Docker、Spark
+- Netflix、Spotify、YouTube、ChatGPT、全网大流量卡
 
 [Weibo](http://weibo.com/kwoker)
 [Mail](mailto:kwoker@keveon.com)
